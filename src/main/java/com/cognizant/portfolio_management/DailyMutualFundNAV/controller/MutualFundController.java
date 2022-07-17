@@ -16,7 +16,7 @@ import com.cognizant.portfolio_management.DailyMutualFundNAV.model.MutualFund;
 import com.cognizant.portfolio_management.DailyMutualFundNAV.service.MutualFundService;
 
 @RestController
-@CrossOrigin("http://mfpe-portfolio-pod5.s3-website-us-west-2.amazonaws.com")
+@CrossOrigin("http://mfpe-project.s3-website-us-west-2.amazonaws.com")
 public class MutualFundController {
 	
 	@Autowired
