@@ -1,10 +1,5 @@
 package com.cognizant.portfolio_management.DailyMutualFundNAV.model;
-/**
- * 
- * This is a model class for authenticated response 
- * @author POD-1
- *
- */
+
 public class AuthResponse {
 
 	private String uid;
