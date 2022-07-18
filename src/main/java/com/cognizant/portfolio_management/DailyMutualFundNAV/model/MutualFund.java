@@ -4,9 +4,7 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
-/*
- * This JPA model class is used to handle database
- */
+
 @Entity
 @Table
 public class MutualFund {
